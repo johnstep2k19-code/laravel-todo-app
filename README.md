@@ -5,7 +5,7 @@ A simple, responsive Task Management application built to demonstrate fundamenta
 ## 📸 Screenshots
 
 ### Dashboard
-![Dashboard](assets/screenshots/todo-app-dashboard.png)
+![Dashboard](resources/assets/screenshots/todo-app-dashboard.png)
 
 ## Features
 * **Create** new tasks with form validation to prevent empty submissions.
