@@ -2,6 +2,11 @@
 
 A simple, responsive Task Management application built to demonstrate fundamental full-stack web development skills using the Laravel framework. 
 
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](assets/screenshots/todo-app-dashboard.png)
+
 ## Features
 * **Create** new tasks with form validation to prevent empty submissions.
 * **Read** and display a list of tasks, sorted by the newest first.
